@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! Eu sou o José Fábio 👋
 
-<!--
-**fabiofiva-byte/fabiofiva-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação | Desenvolvedor | Infraestrutura & Cloud**
 
-Here are some ideas to get you started:
+Com mais de 15 anos de sólida atuação em infraestrutura de TI, redes e ambientes de missão crítica, atualmente estou expandindo meu escopo para o Desenvolvimento de Software e Cloud Computing. Meu foco é unir a visão sistêmica e investigativa do suporte de alto nível com a lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando Ciência da Computação na Universidade Cruzeiro do Sul
+- 💻 Aprofundando conhecimentos práticos em **JavaScript, Java e Python**
+- ☁️ Explorando ecossistemas de nuvem como **Google Cloud Platform (GCP)** e Vercel
+- 🔧 Experiência comprovada em suporte técnico, Active Directory e resolução de incidentes complexos
+
+#### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** JavaScript, Java, Python
+* **Infra e Nuvem:** Google Cloud, Redes, Windows Server, Active Directory
+* **Deploy e Versionamento:** Git, GitHub, Vercel
+
+#### 📫 Como me encontrar
+* [LinkedIn](https://www.linkedin.com/in/jose-fabio-alves-125a6b58)
+* E-mail: fabiofiva@gmail.com
